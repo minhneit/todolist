@@ -1,0 +1,7 @@
+export const LIST_ADD = 'LIST_ADD';
+
+export const LIST_DELETE = 'LIST_DELETE';
+
+export const LIST_ITEM_COMPLETE = 'LIST_COMPLETE';
+
+export const LIST_ITEM_UNCOMPLETE = 'LIST_ITEM_UNCOMPLETE';
